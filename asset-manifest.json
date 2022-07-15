@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "https://thibakar.github.io/csb-cues48/static/css/main.bec89ba6.chunk.css",
+    "main.js": "https://thibakar.github.io/csb-cues48/static/js/main.88ba07c8.chunk.js",
+    "main.js.map": "https://thibakar.github.io/csb-cues48/static/js/main.88ba07c8.chunk.js.map",
+    "runtime-main.js": "https://thibakar.github.io/csb-cues48/static/js/runtime-main.960b9cfd.js",
+    "runtime-main.js.map": "https://thibakar.github.io/csb-cues48/static/js/runtime-main.960b9cfd.js.map",
+    "static/js/2.5a45f145.chunk.js": "https://thibakar.github.io/csb-cues48/static/js/2.5a45f145.chunk.js",
+    "static/js/2.5a45f145.chunk.js.map": "https://thibakar.github.io/csb-cues48/static/js/2.5a45f145.chunk.js.map",
+    "static/js/3.8d6f3952.chunk.js": "https://thibakar.github.io/csb-cues48/static/js/3.8d6f3952.chunk.js",
+    "static/js/3.8d6f3952.chunk.js.map": "https://thibakar.github.io/csb-cues48/static/js/3.8d6f3952.chunk.js.map",
+    "static/js/4.b8fcfe1e.chunk.js": "https://thibakar.github.io/csb-cues48/static/js/4.b8fcfe1e.chunk.js",
+    "static/js/4.b8fcfe1e.chunk.js.map": "https://thibakar.github.io/csb-cues48/static/js/4.b8fcfe1e.chunk.js.map",
+    "index.html": "https://thibakar.github.io/csb-cues48/index.html",
+    "precache-manifest.501a5cf05229e144e3858f1c51cc7015.js": "https://thibakar.github.io/csb-cues48/precache-manifest.501a5cf05229e144e3858f1c51cc7015.js",
+    "service-worker.js": "https://thibakar.github.io/csb-cues48/service-worker.js",
+    "static/css/main.bec89ba6.chunk.css.map": "https://thibakar.github.io/csb-cues48/static/css/main.bec89ba6.chunk.css.map",
+    "static/js/2.5a45f145.chunk.js.LICENSE.txt": "https://thibakar.github.io/csb-cues48/static/js/2.5a45f145.chunk.js.LICENSE.txt",
+    "static/media/Basix_1400x.jpg": "https://thibakar.github.io/csb-cues48/static/media/Basix_1400x.a77f19fe.jpg",
+    "static/media/Basix_700.jpg": "https://thibakar.github.io/csb-cues48/static/media/Basix_700.284a6863.jpg",
+    "static/media/Basix_900.jpg": "https://thibakar.github.io/csb-cues48/static/media/Basix_900.344017e8.jpg",
+    "static/media/essentials_1400x.jpg": "https://thibakar.github.io/csb-cues48/static/media/essentials_1400x.581f2b62.jpg",
+    "static/media/mainvideo2.mp4": "https://thibakar.github.io/csb-cues48/static/media/mainvideo2.f2d6f55f.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.960b9cfd.js",
+    "static/js/2.5a45f145.chunk.js",
+    "static/css/main.bec89ba6.chunk.css",
+    "static/js/main.88ba07c8.chunk.js"
+  ]
+}
